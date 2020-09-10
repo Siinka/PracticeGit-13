@@ -1,0 +1,17 @@
+* {
+    font-size: 40px;
+    font-weight: 700;
+    color: goldenrod;
+}
+
+.first {
+    background-color: indigo;
+}
+
+.second {
+    background-color: mediumpurple;
+}
+
+.third {
+    background-color: mediumslateblue;
+}
